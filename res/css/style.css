@@ -1,0 +1,45 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+html {
+background-color: white;
+color:#555;
+font-family: 'Lato', 'Arial', sans-serif;
+font-size: 20px;
+font-weight: 300;
+text-rendering: optimizeLegibility;
+}
+
+.row {
+max-width: 1140px;
+margin: 0 auto;
+}
+
+.forstay {
+    width: 129.3px;
+    height: 40.8px;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.24;
+    letter-spacing: 0.5px;
+    color: #444449;
+  }
+
+  .Became-a-Host {
+    width: 134px;
+    height: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #444449;
+  }
